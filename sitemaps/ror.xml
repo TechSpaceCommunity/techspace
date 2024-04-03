@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for https://tech-space.co.ke/</title>
+  <link>https://tech-space.co.ke/</link>
+
+<item>
+     <link>https://tech-space.co.ke/</link>
+     <title>TechSpace | Home</title>
+     <description>TechSpace is a technology consulting and training company. We provide the best training and consulting services for our clients.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://tech-space.co.ke/index.html</link>
+     <title>TechSpace | Home</title>
+     <description>TechSpace is a technology consulting and training company. We provide the best training and consulting services for our clients.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
